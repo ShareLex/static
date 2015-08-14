@@ -22,7 +22,7 @@ html {
   margin: 0;
   padding: 0;
 
-  background: url('https://s3.amazonaws.com/koz.treize37.com/sites/517132228fa3260002000004/theme/images/bg.jpg') no-repeat center/cover fixed;
+  background: url('/img/bg.jpg') no-repeat center/cover fixed;
   }
 
 a, .secondary {
