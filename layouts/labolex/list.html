@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{{.Site.LanguageCode}}">
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+  <body>
+    <header>
+      {{ partial "header.html" . }}
+    </header>
+    <div class="content">
+      <h2>{{.Title}}</h2>
+      {{.Content}}
+      {{ range (where .Site.Pages "Section" "labolex") }}
+      <div class="event">
+        <h3 class="secondary">{{.Title}}</h3>
+        {{.Content}}
+      </div>
+      {{ end }}
+    </div>
+    <footer>
+      {{ partial "footer.html" . }}
+    </footer>
+  </body>
+</html>

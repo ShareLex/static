@@ -1,0 +1,152 @@
+/****************
+ * GENERAL
+ ****************/
+
+html, body {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', FreeSans, sans-serif;
+  font-size: 14px;
+
+  min-width: 100%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+
+  color: #3b3b3b;
+  }
+
+body {
+  padding-top: 5rem;
+  }
+
+html {
+  margin: 0;
+  padding: 0;
+
+  background: url('https://s3.amazonaws.com/koz.treize37.com/sites/517132228fa3260002000004/theme/images/bg.jpg') no-repeat center/cover fixed;
+  }
+
+a, .secondary {
+  color: #a5cd39;
+  }
+
+a {
+  text-decoration: none;
+  }
+
+a:hover {
+  text-decoration: underline;
+  }
+
+nav {
+  display: flex;
+  }
+
+nav a {
+  display: inline-block;
+
+  text-align: center;
+
+  flex-grow: 1;
+  }
+
+/**************
+ * HEADER
+ **************/
+
+header {
+  padding: 2rem;
+  }
+
+header .logo {
+  width: 380px;
+  }
+
+header nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  width: 100%;
+
+  background: #fff;
+  }
+
+header a {
+  font-size: 1.2rem;
+
+  display: inline-block;
+
+  padding: 1rem;
+
+  text-align: center;
+  }
+
+header a:hover {
+  font-weight: bold;
+
+  text-decoration: none;
+  }
+
+/**************
+ * CONTENT
+ **************/
+
+.content {
+  box-sizing: border-box;
+  width: 960px;
+  margin: 0 auto;
+  padding: 2em;
+
+  border-radius: 2px;
+  background: #fff;
+  }
+
+.event {
+  box-sizing: border-box;
+  margin: 1em 0;
+  padding: 1em;
+
+  border-radius: 2px;
+  background: #f0f0f0;
+  }
+
+/***************
+ * FOOTER
+ ***************/
+
+footer {
+  font-size: .9em;
+
+  width: 600px;
+  margin: 0 auto;
+
+  text-align: center;
+  }
+footer nav {
+  margin-top: 30px;
+  }
+footer a {
+  padding: 0 8px;
+
+  text-transform: capitalize;
+
+  color: #3b3b3b;
+  }
+footer a:hover {
+  -webkit-transition: color 1s ease;
+     -moz-transition: color 1s ease;
+      -ms-transition: color 1s ease;
+       -o-transition: color 1s ease;
+          transition: color 1s ease;
+  text-decoration: none;
+
+  color: #a5cd39;
+  }
+
+footer .logo-footer {
+  margin: 10px auto; padding-bottom: 30px;
+  }
+
+footer .logo-footer img {
+  width: 122px; height: 79px;
+  }
