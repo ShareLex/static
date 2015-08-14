@@ -7,7 +7,7 @@ title = "A propos"
 ShareLex est un dispositif collaboratif conçu pour créer et partager des solutions
 juridiques, à la fois par des rencontres en réel et par de la collaboration en ligne.
 
-ShareLex permet aux communautés de créer les [LaboLex][what-is-a-labolex]
+ShareLex permet aux communautés de créer les [LaboLex][labolex]
 de façon autonome, locale et indépendante, dans le cadre d'une [charte][charter]
 très simple d'utilisation.
 
@@ -37,6 +37,6 @@ ou Social Good Geeks.
 Le développement de ShareLex est soutenu par une association, mais essentiellement
 par sa communauté.
 
-[what-is-a-labolex]: /what-is-a-labolex
+[labolex]: /labolex
 [charter]: /join/charter
 [ouishare]: http://ouishare.net/
