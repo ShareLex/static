@@ -1,7 +1,6 @@
-baseurl = "http://nukomeet.github.io/sharelex/"
+baseurl = "http://pages.sharelex.org/"
 languageCode = "fr-fr"
 title = "ShareLex"
-canonifyurls = true
 pluralizeListTitles = false
 publishdir = "dist"
 
