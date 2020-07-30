@@ -8,7 +8,7 @@ title = "Join"
 
 To know more about how LaboLex works, have a look here, and find
 [**our charter**][charter] to see how to use the different terms "LaboLex",
-"Lex-up" etc…
+"Lex-up", etc…
 
 ***Join our free software coders crew***
 
