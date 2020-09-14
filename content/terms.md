@@ -10,9 +10,9 @@ en cours de création.
 
 Siège social: 4 rue de l'Ouest, 92600 Asnières sur Seine
 
-Pour contacter le webmestre: **<albanlv@gmail.com>** ou **<fabrice.carrega@gmail.com>**
+Pour contacter le webmestre: contact@openalaw.fr
 
-Directeur de publication: Anne-Laure Brun-Buisson
+Directeur de publication: association Open Law et association ADOA
 
 Nom de domaine: ShareLex.org
 
@@ -161,7 +161,7 @@ qu'ils ne sont pas utilisés à des fins commerciales ou publicitaires, sous
 réserve que la mention «sur le site ShareLex.org» ou toute mention
 équivalente soit indiquée clairement sur le lien ou à proximité de celui-ci, et
 que les auteurs du lien en aient préalablement informé les ou l'un des webmestres
-de ShareLex: <albanlv@gmail.com> & <fabrice.carrega@gmail.com>.
+de ShareLex.
 
 Sont naturellement exclus de cette autorisation les sites diffusant des
 informations à caractère illicite, violent, polémique, pornographique, xénophobe
